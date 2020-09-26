@@ -1,9 +1,5 @@
 /**
  * Module Stack
- * base on array, elements are added to end of array,
- * and are poped from there
- *
- * @param {initalStackItems} Array - initial items for stack.
  */
 let Stack = function () {
     this.items = new Array(0);

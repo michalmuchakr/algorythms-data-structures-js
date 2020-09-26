@@ -1,3 +1,6 @@
+/**
+ * Module Queue
+ */
 const Queue = () => {
     const items = [];
 
