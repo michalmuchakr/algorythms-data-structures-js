@@ -1,5 +1,4 @@
-<h1>Preconfigurated JS </h2>
-<h2>Welcome to React pre congigurated environment.</h2>
+<h2>Welcome to Algorythms and data structures for JavaScript/h2>
 
 <h3>
   Before application could be started run:
